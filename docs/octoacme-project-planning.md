@@ -39,5 +39,8 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Project kickoff held
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
-- [ ] Definition of Done documented
-- [ ] Initial test plan / QA approach drafted
+- [ ] Definition of Done documented (Dev + QA)
+- [ ] Initial test plan drafted (QA)
+- [ ] UX designs or wireframes completed for in-scope features (UX)
+- [ ] Feature Ready for Dev checklist completed for top-priority items (see [`octoacme-templates-and-checklists.md`](./octoacme-templates-and-checklists.md))
+- [ ] Deployment and environment plan confirmed (DevOps)
